@@ -4,9 +4,6 @@
  */
 
 export default {
-    // Referral code to use for new registrations
-    REF: '0uYkCK',
-    
     // On-chain operation settings
     ONCHAIN: {
         // Automatically stake to sqUSD after mint
