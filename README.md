@@ -171,6 +171,19 @@ npm run check-log      # Watch log file in real-time
 
 Feel free to open pull requests, report bugs, or suggest features. Contributions are always welcome!
 
+## Support the Project
+
+If this project has been helpful to you, consider supporting its development with donations:
+
+| Network | Address |
+|---------|---------|
+| **EVM** | `0xfD1847bFAA92fb8c0d100b207d377490C5acd34c` |
+| **SOL** | `BBZjp11sJNvekXZEBhhYDro9gsyyhEKXXcfEEub5ubje` |
+| **TON** | `UQDoLQNF-nt9CFOHBs9mQqxH9YJKrZ6mFPbAeHH8Jo9xIGCb` |
+| **SUI** | `0x79672047f5e2fa0c4db3e4278f80b9ac504b2858c6d82d63f833fbdcc6805175` |
+| **TRX** | `0x79672047f5e2fa0c4db3e4278f80b9ac504b2858c6d82d63f833fbdcc6805175` |
+
+
 ## Disclaimer
 
 This tool is for educational and testing purposes only on the [QuietFi Testnet](https://testnet.quiet.finance/ref/0uYkCK). Use at your own risk. The authors are not responsible for any consequences resulting from the use of this software.
