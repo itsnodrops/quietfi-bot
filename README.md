@@ -2,7 +2,7 @@
 
 Automated bot for interacting with Quiet Finance Testnet Campaign with support for multi-account, proxy rotation, on-chain operations, and concurrent processing.
 
-> **WARNING**
+> **⚠️ WARNING ⚠️**
 > **Code Obfuscation Notice**: This script will be obfuscated to prevent unauthorized code redistribution. The full source code will be shared publicly after the event ends.
 
 > **Auto-Register Feature**: This bot supports automatic account registration with referral codes. For access to this feature, check our Telegram channel: [@NoDrops](https://t.me/NoDrops)
